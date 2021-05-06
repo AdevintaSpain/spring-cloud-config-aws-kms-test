@@ -1,0 +1,4 @@
+aws:
+  kms:
+    region: "eu-west-1"
+    useMock: true
